@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitiotest/static/css/main.0cc88100.css",
+    "main.js": "/gitiotest/static/js/main.00071aac.js",
+    "static/js/787.cfd8f164.chunk.js": "/gitiotest/static/js/787.cfd8f164.chunk.js",
+    "static/media/background_video.mp4": "/gitiotest/static/media/background_video.1be58c3a55f414605a5b.mp4",
+    "index.html": "/gitiotest/index.html",
+    "main.0cc88100.css.map": "/gitiotest/static/css/main.0cc88100.css.map",
+    "main.00071aac.js.map": "/gitiotest/static/js/main.00071aac.js.map",
+    "787.cfd8f164.chunk.js.map": "/gitiotest/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc88100.css",
+    "static/js/main.00071aac.js"
+  ]
+}
